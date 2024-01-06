@@ -14,3 +14,6 @@ git add .
 
 to commit the change use
 git commit -m"Any Message" 
+
+push to show on git
+git push origin main  
