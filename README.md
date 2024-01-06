@@ -18,4 +18,10 @@ git commit -m"Any Message"
 push to show on git
 git push origin main  
 
-This is how we change
+Other way 
+click source control 
+then add with + sign 
+write a message 
+commit all changes 
+click on 3dots and push 
+    done 
